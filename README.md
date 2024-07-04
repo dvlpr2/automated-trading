@@ -26,7 +26,7 @@ to find the fastest lines in a objective manner.
 ***
 #### Below the results : the ranking of each source.  
 
-It is possible now to objectively decide to keep on only the lines 10.10.10.4 (the fastest by far) and 10.10.10.3 as a backup.  
+It is possible now to objectively decide to keep only the lines 10.10.10.4 (the fastest by far) and 10.10.10.3 as a backup.
 The other 2 lines are much slower and can be discarded.
 ***
 
